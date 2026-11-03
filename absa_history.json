@@ -1,0 +1,630 @@
+[
+  {
+    "timestamp": "2026-06-24 17:17:14",
+    "text": "The hotel is in dubai",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.91,
+    "aspect_rows": [
+      {
+        "name": "Brand Competitor Comparison",
+        "sentiment": "Positive",
+        "confidence": 0.9121991395950317,
+        "kind": "positive"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-24 17:16:54",
+    "text": "The food was good but the room was bad.",
+    "overall_sentiment": "MIXED",
+    "overall_confidence": 0.61,
+    "aspect_rows": [
+      {
+        "name": "Brand Competitor Comparison",
+        "sentiment": "Mixed",
+        "confidence": 0.6062547564506531,
+        "kind": "mixed",
+        "positive_pct": 60.6,
+        "negative_pct": 26.4
+      },
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Negative",
+        "confidence": 0.2883603572845459,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-24 16:35:08",
+    "text": "the food was really good, but the room was uncomfy",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.93,
+    "aspect_rows": [
+      {
+        "name": "Brand Competitor Comparison",
+        "sentiment": "Positive",
+        "confidence": 0.929783284664154,
+        "kind": "positive"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-24 16:34:53",
+    "text": "the food was really good, but the rest of the services are bad",
+    "overall_sentiment": "MIXED",
+    "overall_confidence": 0.84,
+    "aspect_rows": [
+      {
+        "name": "Brand Competitor Comparison",
+        "sentiment": "Mixed",
+        "confidence": 0.8365844488143921,
+        "kind": "mixed",
+        "positive_pct": 83.7,
+        "negative_pct": 33.6
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-24 16:34:12",
+    "text": "I reaaly enjoyed the app",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.99,
+    "aspect_rows": [
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Positive",
+        "confidence": 0.9887428283691406,
+        "kind": "positive"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-24 16:33:59",
+    "text": "The app needs a lot of enhancements, but it's worth using.",
+    "overall_sentiment": "MIXED",
+    "overall_confidence": 0.79,
+    "aspect_rows": [
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Mixed",
+        "confidence": 0.7866532802581787,
+        "kind": "mixed",
+        "positive_pct": 30.5,
+        "negative_pct": 78.7
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-24 16:33:49",
+    "text": "The app needs a lot of enhancements.",
+    "overall_sentiment": "NEGATIVE",
+    "overall_confidence": 0.96,
+    "aspect_rows": [
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Negative",
+        "confidence": 0.9599793553352356,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-24 16:33:28",
+    "text": "I don't get the hype",
+    "overall_sentiment": "NEGATIVE",
+    "overall_confidence": 0.58,
+    "aspect_rows": [
+      {
+        "name": "Brand Competitor Comparison",
+        "sentiment": "Negative",
+        "confidence": 0.5778881907463074,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-24 16:33:10",
+    "text": "There is a much better app than this.",
+    "overall_sentiment": "NEGATIVE",
+    "overall_confidence": 0.98,
+    "aspect_rows": [
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Negative",
+        "confidence": 0.9767780303955078,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-24 16:32:48",
+    "text": "I think the whole service was a mid.",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.99,
+    "aspect_rows": [
+      {
+        "name": "Brand Competitor Comparison",
+        "sentiment": "Positive",
+        "confidence": 0.9859004616737366,
+        "kind": "positive"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-24 16:32:24",
+    "text": "The app had basic features.",
+    "overall_sentiment": "NEUTRAL",
+    "overall_confidence": 0.58,
+    "aspect_rows": [
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Neutral",
+        "confidence": 0.5805985331535339,
+        "kind": "neutral"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-24 16:32:15",
+    "text": "The app had basic features. I don't think they're bad, but not fantastic either.",
+    "overall_sentiment": "NEGATIVE",
+    "overall_confidence": 0.98,
+    "aspect_rows": [
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Negative",
+        "confidence": 0.9842026233673096,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-24 16:31:29",
+    "text": "I don't understand how people like this app",
+    "overall_sentiment": "NEGATIVE",
+    "overall_confidence": 0.72,
+    "aspect_rows": [
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Negative",
+        "confidence": 0.7196205258369446,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-24 16:31:11",
+    "text": "the app was horrible, pricey, and was slow.",
+    "overall_sentiment": "NEGATIVE",
+    "overall_confidence": 0.89,
+    "aspect_rows": [
+      {
+        "name": "Ride Speed",
+        "sentiment": "Negative",
+        "confidence": 0.5814725756645203,
+        "kind": "negative"
+      },
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Negative",
+        "confidence": 0.8897222876548767,
+        "kind": "negative"
+      },
+      {
+        "name": "Discounts & Promotions",
+        "sentiment": "Negative",
+        "confidence": 0.7350718379020691,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-24 16:30:55",
+    "text": "the app was horrible, pricey, and was lagging.",
+    "overall_sentiment": "NEGATIVE",
+    "overall_confidence": 0.94,
+    "aspect_rows": [
+      {
+        "name": "Brand Satisfaction",
+        "sentiment": "Negative",
+        "confidence": 0.2844243049621582,
+        "kind": "negative"
+      },
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Negative",
+        "confidence": 0.9384887218475342,
+        "kind": "negative"
+      },
+      {
+        "name": "Discounts & Promotions",
+        "sentiment": "Negative",
+        "confidence": 0.8257279396057129,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-24 16:30:41",
+    "text": "the app was horrible",
+    "overall_sentiment": "NEGATIVE",
+    "overall_confidence": 0.98,
+    "aspect_rows": [
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Negative",
+        "confidence": 0.9752992987632751,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-24 16:30:27",
+    "text": "I liked ayatv better than yacinetv.",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.86,
+    "aspect_rows": [
+      {
+        "name": "Brand Satisfaction",
+        "sentiment": "Positive",
+        "confidence": 0.8618780374526978,
+        "kind": "positive"
+      },
+      {
+        "name": "Brand Competitor Comparison",
+        "sentiment": "Positive",
+        "confidence": 0.6872053146362305,
+        "kind": "positive"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-23 00:13:02",
+    "text": "the staff were rude but they were quick",
+    "overall_sentiment": "MIXED",
+    "overall_confidence": 0.78,
+    "aspect_rows": [
+      {
+        "name": "Staff Attitude",
+        "sentiment": "Mixed",
+        "confidence": 0.7842573523521423,
+        "kind": "mixed",
+        "positive_pct": 78.4,
+        "negative_pct": 25.5
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-23 00:12:42",
+    "text": "i like the app but it's slow",
+    "overall_sentiment": "NEUTRAL",
+    "overall_confidence": 0.96,
+    "aspect_rows": [
+      {
+        "name": "Ride Speed",
+        "sentiment": "Negative",
+        "confidence": 0.6842755079269409,
+        "kind": "negative"
+      },
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Positive",
+        "confidence": 0.9552353024482727,
+        "kind": "positive"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-23 00:12:22",
+    "text": "the app is slow though it's also nice",
+    "overall_sentiment": "NEGATIVE",
+    "overall_confidence": 0.92,
+    "aspect_rows": [
+      {
+        "name": "Ride Speed",
+        "sentiment": "Negative",
+        "confidence": 0.9179071187973022,
+        "kind": "negative"
+      },
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Negative",
+        "confidence": 0.5141230821609497,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-23 00:12:11",
+    "text": "the app is slow but it's also nice",
+    "overall_sentiment": "NEGATIVE",
+    "overall_confidence": 0.92,
+    "aspect_rows": [
+      {
+        "name": "Ride Speed",
+        "sentiment": "Negative",
+        "confidence": 0.9173256158828735,
+        "kind": "negative"
+      },
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Negative",
+        "confidence": 0.6297985911369324,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-23 00:12:10",
+    "text": "the app is slow but it's also nice",
+    "overall_sentiment": "NEGATIVE",
+    "overall_confidence": 0.92,
+    "aspect_rows": [
+      {
+        "name": "Ride Speed",
+        "sentiment": "Negative",
+        "confidence": 0.9173256158828735,
+        "kind": "negative"
+      },
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Negative",
+        "confidence": 0.6297985911369324,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-23 00:12:00",
+    "text": "the app is slow but it's also nice",
+    "overall_sentiment": "NEGATIVE",
+    "overall_confidence": 0.92,
+    "aspect_rows": [
+      {
+        "name": "Ride Speed",
+        "sentiment": "Negative",
+        "confidence": 0.9173256158828735,
+        "kind": "negative"
+      },
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Negative",
+        "confidence": 0.6297985911369324,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-23 00:11:59",
+    "text": "the app is slow but it's also nice",
+    "overall_sentiment": "NEGATIVE",
+    "overall_confidence": 0.92,
+    "aspect_rows": [
+      {
+        "name": "Ride Speed",
+        "sentiment": "Negative",
+        "confidence": 0.9173256158828735,
+        "kind": "negative"
+      },
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Negative",
+        "confidence": 0.6297985911369324,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-23 00:11:39",
+    "text": "the app is slow but it's also nice",
+    "overall_sentiment": "NEGATIVE",
+    "overall_confidence": 0.92,
+    "aspect_rows": [
+      {
+        "name": "Ride Speed",
+        "sentiment": "Negative",
+        "confidence": 0.9173256158828735,
+        "kind": "negative"
+      },
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Negative",
+        "confidence": 0.6297985911369324,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-23 00:11:29",
+    "text": "the app is slow but it's nice",
+    "overall_sentiment": "NEGATIVE",
+    "overall_confidence": 0.9,
+    "aspect_rows": [
+      {
+        "name": "Ride Speed",
+        "sentiment": "Negative",
+        "confidence": 0.9025653004646301,
+        "kind": "negative"
+      },
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Negative",
+        "confidence": 0.6966704726219177,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-23 00:11:07",
+    "text": "the services are too slow but they are good",
+    "overall_sentiment": "NEUTRAL",
+    "overall_confidence": 0.84,
+    "aspect_rows": [
+      {
+        "name": "Brand Competitor Comparison",
+        "sentiment": "Positive",
+        "confidence": 0.7388743162155151,
+        "kind": "positive"
+      },
+      {
+        "name": "Ride Speed",
+        "sentiment": "Negative",
+        "confidence": 0.8440655469894409,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-23 00:10:46",
+    "text": "the service is bad, but the staff are good",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.9,
+    "aspect_rows": [
+      {
+        "name": "Staff Attitude",
+        "sentiment": "Positive",
+        "confidence": 0.9015857577323914,
+        "kind": "positive"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-23 00:10:39",
+    "text": "the service is bad but the staff are good",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.93,
+    "aspect_rows": [
+      {
+        "name": "Staff Attitude",
+        "sentiment": "Positive",
+        "confidence": 0.9265521764755249,
+        "kind": "positive"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-23 00:10:31",
+    "text": "the service is badd but the staff are good",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.94,
+    "aspect_rows": [
+      {
+        "name": "Brand Competitor Comparison",
+        "sentiment": "Positive",
+        "confidence": 0.5067399144172668,
+        "kind": "positive"
+      },
+      {
+        "name": "Staff Attitude",
+        "sentiment": "Positive",
+        "confidence": 0.9419519901275635,
+        "kind": "positive"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-23 00:10:19",
+    "text": "The serice is badd",
+    "overall_sentiment": "NEGATIVE",
+    "overall_confidence": 0.89,
+    "aspect_rows": [
+      {
+        "name": "Brand Competitor Comparison",
+        "sentiment": "Negative",
+        "confidence": 0.8921857476234436,
+        "kind": "negative"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-23 00:03:20",
+    "text": "The support team was helpful and responded quickly but the problem took too long. The agent was polite though.",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.97,
+    "aspect_rows": [
+      {
+        "name": "Staff Attitude",
+        "sentiment": "Positive",
+        "confidence": 0.9671388268470764,
+        "kind": "positive"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-23 00:03:07",
+    "text": "The support team was helpful and responded quickly but the issue took too long. The agent was polite though.",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.97,
+    "aspect_rows": [
+      {
+        "name": "Staff Attitude",
+        "sentiment": "Positive",
+        "confidence": 0.9717804193496704,
+        "kind": "positive"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-23 00:02:58",
+    "text": "The support team was helpful and responded quickly but the issue took too long to resolve. The agent was polite though.",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.97,
+    "aspect_rows": [
+      {
+        "name": "Staff Attitude",
+        "sentiment": "Positive",
+        "confidence": 0.9689068794250488,
+        "kind": "positive"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-23 00:02:38",
+    "text": "The support team was helpful and responded quickly, but the issue took too long to resolve. The agent was polite though.",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.96,
+    "aspect_rows": [
+      {
+        "name": "Staff Attitude",
+        "sentiment": "Positive",
+        "confidence": 0.9645877480506897,
+        "kind": "positive"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-23 00:02:34",
+    "text": "The support team was helpful and responded quickly, but the issue took too long to resolve. The agent was polite though.",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.96,
+    "aspect_rows": [
+      {
+        "name": "Staff Attitude",
+        "sentiment": "Positive",
+        "confidence": 0.9645877480506897,
+        "kind": "positive"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-06-22 21:53:01",
+    "text": "The app had a lot of discounts. Definitely liked it!",
+    "overall_sentiment": "POSITIVE",
+    "overall_confidence": 0.91,
+    "aspect_rows": [
+      {
+        "name": "App & Website Experience",
+        "sentiment": "Positive",
+        "confidence": 0.8152919411659241,
+        "kind": "positive"
+      },
+      {
+        "name": "Prices",
+        "sentiment": "Positive",
+        "confidence": 0.9066249132156372,
+        "kind": "positive"
+      }
+    ]
+  }
+]
